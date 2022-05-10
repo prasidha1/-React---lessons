@@ -1,0 +1,9 @@
+,X,group,Dial,indicators,value,Data_as_of,Report_date
+1,1,Global,Vaccination,No_of_countries_with_coverage_70per,75,5/10/2022,5/10/2022
+2,2,Global,Testing,No_of_countries_with_testing_rate_more_target,34,5/10/2022,5/10/2022
+3,3,Global,Therapeutics,cases_care_for_with_adequate_treatment,NA,5/10/2022,5/10/2022
+4,4,Global,Protection_of_Health_Workers,HCWs_protected,NA,5/10/2022,5/10/2022
+5,5,ACT_A ,Vaccination,No_of_vaccines_delivered_through_COVAX,1485685330,11/19/2021,5/10/2022
+6,6,ACT_A ,Testing,No_of_tests_delivered_through_ACT_A,157982306,11/19/2021,5/10/2022
+7,7,ACT_A ,Therapeutics,US_Mn_MED_BIO_delivered,219273247,11/19/2021,5/10/2022
+8,8,ACT_A ,Protection_of_Health_Workers,US_Mn_PPE_delivered,532034575,11/19/2021,5/10/2022
